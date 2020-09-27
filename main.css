@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    margin: 0;
+}
+
+div {
+    padding: 5px;
+    background-color: brown;
+}
+
+div h1 {
+    text-align: center;
+}
+
+div h6 {
+    text-indent: 60%;
+    display: block;
+    padding: 8px;
+}
+
+form input{
+    left: 20px;
+    text-indent: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
